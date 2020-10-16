@@ -3,5 +3,5 @@
 ### 🔭 I’m currently an undergraduate student
 ### 🌱 I’m currently learning Fullstack Development
 ### 💬 Ask me about Data Structures and Algorithms
-### 📫 How to reach me: twitter, linkedIn, facebook, instagram, gmail
+
  
