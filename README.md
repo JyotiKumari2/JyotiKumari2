@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jyoti Kumari! Enthusiastic coder & developer <☕/>
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jyoti Kumari! <☕/>
 ![GitHub followers](https://img.shields.io/github/followers/JyotiKumari2?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/JyotiKumari2?style=social)
 
@@ -10,7 +10,7 @@ My major interest lies in developing and emerging technologies, I am an enthusia
 
 I love to solve algorithmic problems, I am learning Data Structures & Algorithms. I have started solving problems on various competitive coding sites like Codeforces and CodeChef. 
 
-Apart from this, I like to read good books, listen to music, drawing & sketching. And I like to connect with like-minded people.
+Apart from this, I like to read good books, listen to music, drawing & sketching. And I love to connect with like-minded people.
 
 --------
 
