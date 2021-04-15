@@ -1,5 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jyoti Kumari! Enthusiastic coder & developer <☕/>
-![GitHub followers](https://img.shields.io/github/followers/JyotiKumari2?style=social)  ![GitHub User's stars](https://img.shields.io/github/stars/JyotiKumari2?style=social)
+![GitHub followers](https://img.shields.io/github/followers/JyotiKumari2?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/JyotiKumari2?style=social)
 
 --------
 
@@ -16,10 +17,6 @@ Apart from this, I like to read good books, listen to music, drawing & sketching
 🧰 Toolbox
 
 <img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="Github Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" alt="Terminal Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/>
-
-
-
---------
 
 --------
 
