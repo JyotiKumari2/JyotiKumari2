@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jyoti Kumari!
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jyoti Kumari! Enthusiastic coder & developer <☕/>
 ![GitHub followers](https://img.shields.io/github/followers/JyotiKumari2?style=social)
 --------
 
