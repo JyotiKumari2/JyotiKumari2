@@ -1,5 +1,6 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Jyoti Kumari! Enthusiastic coder & developer <☕/>
-![GitHub followers](https://img.shields.io/github/followers/JyotiKumari2?style=social)
+![GitHub followers](https://img.shields.io/github/followers/JyotiKumari2?style=social)  ![GitHub User's stars](https://img.shields.io/github/stars/JyotiKumari2?style=social)
+
 --------
 
 My name is Jyoti Kumari. Currently, I am pursuing my B.tech based in Chemical Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur.
