@@ -14,9 +14,9 @@ Apart from this, I like to read good books, listen to music, drawing & sketching
 
 --------
 
-🧰 Toolbox
+<strong><h3>🧰 Toolbox</h3></strong>
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="JavaScript Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="Github Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" alt="Terminal Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="50" height="50"/>  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="JavaScript Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="JavaScript Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="Github Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" alt="Terminal Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="60" height="40"/>
 
 --------
 
@@ -27,19 +27,18 @@ Apart from this, I like to read good books, listen to music, drawing & sketching
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotiKumari2&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 --------
-👀<strong>Profile Views</strong>
- <br/><br/>
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+<strong><h3>🚨 Profile Views</h3></strong>
+ <br/>
+![Visitor Count](https://profile-counter.glitch.me/{JyotiKumari2}/count.svg)
 
 --------
-### Let's Connect :coffee:
-<p align="center">
-	<a href="https://github.com/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.facebook.com/a"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
-	<a href="https://www.instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-	<a href="https://twitter.com/"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-</p>
+<strong><h3>💬 Let's Connect</h3></strong>
+<div>
+	<a href="https://www.linkedin.com/in/jyoti-kumari-34a4a01ab/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="60" height="40"/></a>
+	<a href="https://www.facebook.com/jyotikumari1801/"><img src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" alt="Facebook" width="60" height="40"/></a>
+	<a href="https://www.sololearn.com/profile/14680412"><img src="https://cdn.worldvectorlogo.com/logos/sololearn-2.svg" alt="Sololearn" width="60" height="40"/></a>
+</div> 
+
 --------
  
 
