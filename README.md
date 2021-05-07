@@ -32,6 +32,15 @@ Apart from this, I like to read good books, listen to music, drawing & sketching
 ![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
 --------
+### Let's Connect :coffee:
+<p align="center">
+	<a href="https://github.com/"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/a"><img src="https://img.icons8.com/bubbles/50/000000/facebook-new.png" alt="Facebook"/></a>
+	<a href="https://www.instagram.com/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://twitter.com/"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
+--------
  
 
 <div align="center"><strong>Show some ❤️️ by starring⭐ some of the repositories!</strong></div>
