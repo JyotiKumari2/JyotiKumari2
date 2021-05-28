@@ -1,9 +1,10 @@
-<img src="header1.png"/>
 <strong><h1>Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jyoti👩‍💻</h1></strong>
-
 
 ![GitHub followers](https://img.shields.io/github/followers/JyotiKumari2?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/JyotiKumari2?style=social)
+
+
+<img src="header1.png"/>
 
 --------
 
