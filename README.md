@@ -2,10 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/JyotiKumari2?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/JyotiKumari2?style=social)
-
-
-<img src="header1.png"/>
-
 --------
 
 My name is Jyoti Kumari. Currently, I am pursuing my B.tech based in Chemical Engineering from Madan Mohan Malaviya University of Technology, Gorakhpur.
@@ -20,7 +16,7 @@ Apart from this, I like to read good books, listen to music, drawing & sketching
 
 <strong><h3>🧰 Toolbox</h3></strong>
 
-<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="JavaScript Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="JavaScript Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="Github Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" alt="Terminal Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="60" height="40"/>  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="60" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/html5.svg" alt="HTML5 Logo" width="40" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/css3.svg" alt="CSS Logo" width="40" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript Logo" width="40" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" alt="Bootstrap Logo" width="40" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/atom-4.svg" alt="JavaScript Logo" width="40" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="JavaScript Logo" width="40" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++ Logo" width="40" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python Logo" width="40" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="Github Logo" width="40" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/terminal-1.svg" alt="Terminal Logo" width="40" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git Logo" width="40" height="30"/><img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React Logo" width="40" height="30"/>
 
 --------
 
