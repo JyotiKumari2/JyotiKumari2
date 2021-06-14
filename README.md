@@ -40,7 +40,7 @@ Apart from this, I like to read good books, listen to music, drawing & sketching
 </div>  -->
 <p align="center">
 <a href="https://www.linkedin.com/in/jyoti-kumari-34a4a01ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jyoti%20Kumari-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:jyotikm058@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jyotikm058@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:jyotikm1881@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jyotikm1801@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 --------
