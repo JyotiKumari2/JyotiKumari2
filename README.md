@@ -22,8 +22,7 @@ Apart from this, I like to read good books, listen to music, drawing & sketching
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiKumari2&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiKumari2&hide=java&theme=radical)](https://github.com/anuraghazra/github-readme-stats)         -->
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=JyotiKumari2&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 --------
