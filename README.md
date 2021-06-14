@@ -37,12 +37,16 @@ Apart from this, I like to read good books, listen to music, drawing & sketching
 
 --------
 <strong><h3>💬 Let's Connect</h3></strong>
-<div>
+<!-- <div>
 	<a href="https://www.linkedin.com/in/jyoti-kumari-34a4a01ab/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="60" height="40"/></a>
 	<a href="https://www.facebook.com/jyotikumari1801/"><img src="https://cdn.worldvectorlogo.com/logos/facebook-4.svg" alt="Facebook" width="60" height="40"/></a>
 	<a href="https://www.instagram.com/jyotikm1801/"><img src="https://cdn.worldvectorlogo.com/logos/instagram-2-1.svg" alt="Instagram" width="60" height="40"/></a>
 	<a href="https://www.sololearn.com/profile/14680412"><img src="https://cdn.worldvectorlogo.com/logos/sololearn-2.svg" alt="Sololearn" width="60" height="40"/></a>
-</div> 
+</div>  -->
+<p align="center">
+<a href="https://www.linkedin.com/in/jyoti-kumari-34a4a01ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jyoti%20Kumari-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:jyotikm058@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jyotikm058@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
 
 --------
  
