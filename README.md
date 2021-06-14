@@ -1,10 +1,10 @@
 <strong><h1>Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jyoti</h1></strong>
- 
-![GitHub followers](https://img.shields.io/github/followers/JyotiKumari2?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/JyotiKumari2?style=social)
+
 ![](https://komarev.com/ghpvc/?username=JyotiKumari2&color=red)
 <a href="https://www.linkedin.com/in/jyoti-kumari-34a4a01ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jyoti%20Kumari-red?style=flat-square&logo=linkedin"></a>
-<a href="mailto:jyotikm1881@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jyotikm1801@gmail.com-red?style=flat-square&logo=gmail"></a>
+<a href="mailto:jyotikm1881@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-jyotikm1801@gmail.com-red?style=flat-square&logo=gmail"></a> 
+![GitHub followers](https://img.shields.io/github/followers/JyotiKumari2?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/JyotiKumari2?style=social)
  
 - 🤔Exploring new technologies and being a coding enthusiastic. 
 - 🎓Pursuing B.Tech at Madan Mohan Malaviya University of Technology, Gorakhpur.
