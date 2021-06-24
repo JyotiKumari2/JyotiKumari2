@@ -26,10 +26,11 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
 ## 👩‍💻 Online Coding Profile
    <a href="https://codeforces.com/profile/jyotikm1801"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=codeforces"></a>
