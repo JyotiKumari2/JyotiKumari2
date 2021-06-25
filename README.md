@@ -32,14 +32,6 @@
   ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   
-<!-- ## 👩‍💻 Online Coding Profile
-   <a href="https://codeforces.com/profile/jyotikm1801"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=codeforces"></a>
-   <a href="https://www.codechef.com/users/jyotikm1801"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=codechef"></a>
-   <a href="https://leetcode.com/jyotikm1801/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode"></a>
-   <a href="https://www.hackerearth.com/@jyoti1047"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-black?style=flat-square&logo=hackerearth"></a>
-   <a href="https://www.hackerrank.com/outofamo"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-black?style=flat-square&logo=hackerrank"></a>
-   <a href="https://auth.geeksforgeeks.org/user/jyotikm1801/profile"><img alt="Geeksforgeeks" src="https://img.shields.io/badge/GeeksforGeeks-black?style=flat-square&logo=geeksforgeeks"></a> -->
-    
 
 ## &#x1f4c8; My GitHub Stats
 <a href="https://github.com/JyotiKumari2">
@@ -69,6 +61,14 @@
 <a href="https://www.instagram.com/jyotikm1801/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram"></a>
 <a href="https://codepen.io/jyotikm1801"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-black?style=flat-square&logo=codepen"></a>
 <a href="https://dribbble.com/jyotikm1801"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-black?style=flat-square&logo=dribbble"></a>
+
+## 👩‍💻 Online Coding Profile
+   <a href="https://codeforces.com/profile/jyotikm1801"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=codeforces"></a>
+   <a href="https://www.codechef.com/users/jyotikm1801"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=codechef"></a>
+   <a href="https://leetcode.com/jyotikm1801/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode"></a>
+   <a href="https://www.hackerearth.com/@jyoti1047"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-black?style=flat-square&logo=hackerearth"></a>
+   <a href="https://www.hackerrank.com/outofamo"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-black?style=flat-square&logo=hackerrank"></a>
+   <a href="https://auth.geeksforgeeks.org/user/jyotikm1801/profile"><img alt="Geeksforgeeks" src="https://img.shields.io/badge/GeeksforGeeks-black?style=flat-square&logo=geeksforgeeks"></a>
 
 ![GitHub metrics](https://metrics.lecoq.io/JyotiKumari2)
  
