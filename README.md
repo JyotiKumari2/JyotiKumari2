@@ -49,7 +49,10 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JyotiKumari2&theme=dark)
 
 ### 📈 Github Activity Graph
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=JyotiKumari2&theme=dark)
+[![Jyoti's github activity graph](https://activity-graph.herokuapp.com/graph?username=JyotiKumari2&theme=react-dark)](https://github.com/jyotikumari2/github-readme-activity-graph)
+
+  
+
 
   
 
