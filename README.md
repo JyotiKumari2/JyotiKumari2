@@ -52,13 +52,13 @@
 [![Jyoti's github activity graph](https://activity-graph.herokuapp.com/graph?username=JyotiKumari2&theme=react-dark)](https://github.com/jyotikumari2/github-readme-activity-graph)
 
   
-### 👩‍💻 Online Coding Profile
+<!-- ### 👩‍💻 Online Coding Profile
    <a href="https://codeforces.com/profile/jyotikm1801"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=codeforces"></a>
    <a href="https://www.codechef.com/users/jyotikm1801"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=codechef"></a>
    <a href="https://leetcode.com/jyotikm1801/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode"></a>
    <a href="https://www.hackerearth.com/@jyoti1047"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-black?style=flat-square&logo=hackerearth"></a>
    <a href="https://www.hackerrank.com/outofamo"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-black?style=flat-square&logo=hackerrank"></a>
-   <a href="https://auth.geeksforgeeks.org/user/jyotikm1801/profile"><img alt="Geeksforgeeks" src="https://img.shields.io/badge/GeeksforGeeks-black?style=flat-square&logo=geeksforgeeks"></a>
+   <a href="https://auth.geeksforgeeks.org/user/jyotikm1801/profile"><img alt="Geeksforgeeks" src="https://img.shields.io/badge/GeeksforGeeks-black?style=flat-square&logo=geeksforgeeks"></a> -->
    
 ### 🤝 Connect with me
 <a href="https://www.linkedin.com/in/jyoti-kumari-34a4a01ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin"></a>
