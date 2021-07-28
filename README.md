@@ -28,9 +28,10 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+<!--   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) -->
+  
   
 
 ## &#x1f4c8; My GitHub Stats
