@@ -65,14 +65,18 @@
 <a href="https://codepen.io/jyotikm1801"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-black?style=flat-square&logo=codepen"></a>
 <a href="https://dribbble.com/jyotikm1801"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-black?style=flat-square&logo=dribbble"></a>
 
---------
-   
-  <div align="center"><strong>Show some ❤️️ by starring⭐ some of the repositories!</strong></div>
+
   
 --------
 
 ![GitHub metrics](https://metrics.lecoq.io/JyotiKumari2)
+
+<hr>
+<div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b> :)</em></div>
+
+--------
+   
+  <div align="center"><strong>Show some ❤️️ by starring⭐ some of the repositories!</strong></div>
  
 
- <hr>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b> :)</em>
+
