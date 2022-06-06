@@ -1,4 +1,4 @@
-<strong><h1>Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jyoti</h1></strong>
+<strong><h1>Hi, I'm Jyoti</h1></strong>
 
 ![](https://komarev.com/ghpvc/?username=JyotiKumari2&color=red)
 ![GitHub followers](https://img.shields.io/github/followers/JyotiKumari2?style=social)
