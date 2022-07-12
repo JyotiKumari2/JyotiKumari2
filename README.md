@@ -11,22 +11,10 @@
  
 ## 🧰 Toolbox
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  <br>
-  ![PhotoShop](https://img.shields.io/badge/-Adobe%20Photoshop-333333?style=flat&logo=adobe-photoshop) 
-  <br>
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  <br>
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-<!--   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
-  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django) -->
-  
   
 
 ## &#x1f4c8; My GitHub Stats
