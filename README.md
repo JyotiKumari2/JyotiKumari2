@@ -6,7 +6,6 @@
  
 - 🤔Exploring new technologies and being a coding enthusiastic. 
 - 🎓Pursuing B.Tech at Madan Mohan Malaviya University of Technology, Gorakhpur.
-- 🌱Learning more about MERN Stack. 
 - 💻Learning Data Structures & Algorithms
  
 ## 🧰 Toolbox
