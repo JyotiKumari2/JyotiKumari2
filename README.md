@@ -4,9 +4,15 @@
 ![GitHub followers](https://img.shields.io/github/followers/JyotiKumari2?style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/JyotiKumari2?style=social) 
  
-- 🤔Exploring new technologies and being a coding enthusiastic. 
-- 🎓Pursuing B.Tech at Madan Mohan Malaviya University of Technology, Gorakhpur.
-- 💻Learning Data Structures & Algorithms
+<h3>Skills:</h3>
+Strongest: Data structures & Algorithms | Competitive Programming <br/>
+Familiar : MERN | HTML | CSS | JavaScript | CS-Fundamentals | Git & GitHub<br/>
+<br/>
+I'm a final year student at MMMUT Gorakhpur. <br/>
+Interested in building a career as a full-time software engineer, I'm open to relevant opportunities. <br/>
+Feel free to contact me at jyotikm1801@gmail.com.<br/>
+<br/>
+🎯My goal is to become a good software engineer. :)<br/>
  
 ## 🧰 Toolbox
   ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
