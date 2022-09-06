@@ -5,8 +5,9 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/JyotiKumari2?style=social) 
  
 <h3>Skills:</h3>
-Strongest: Data structures & Algorithms | Competitive Programming <br/>
+Strongest: Data structures & Algorithms  <br/>
 Familiar : MERN | HTML | CSS | JavaScript | CS-Fundamentals | Git & GitHub<br/>
+Learning : Competitive Programming
 <br/>
 I'm a final year student at MMMUT Gorakhpur. <br/>
 Interested in building a career as a full-time software engineer, I'm open to relevant opportunities. <br/>
