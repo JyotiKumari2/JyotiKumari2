@@ -9,6 +9,7 @@ Strongest: Data structures & Algorithms  <br/>
 Familiar : MERN | HTML | CSS | JavaScript | CS-Fundamentals | Git & GitHub<br/>
 Learning : Competitive Programming
 <br/>
+<br/>
 I'm a final year student at MMMUT Gorakhpur. <br/>
 Interested in building a career as a full-time software engineer, I'm open to relevant opportunities. <br/>
 Feel free to contact me at jyotikm1801@gmail.com
