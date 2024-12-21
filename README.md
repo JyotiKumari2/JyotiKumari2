@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Jyoti Kumari</h1>
-<h3 align="center">Java Developer | Exploring Spring Boot | Learning, Building, and Growing Every Day</h3>
+<h2 align="center">Hi 👋, I'm Jyoti Kumari</h2>
+<h4 align="center">Learning, Building, and Growing Every Day</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotikumari2&label=Profile%20views&color=0e75b6&style=flat" alt="jyotikumari2" /> </p>
 
