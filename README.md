@@ -1,71 +1,27 @@
-<strong><h1>Hi, I'm Jyoti</h1></strong>
+<h1 align="center">Hi 👋, I'm Jyoti Kumari</h1>
+<h3 align="center">Java Developer | Exploring Spring Boot | Learning, Building, and Growing Every Day</h3>
 
-![](https://komarev.com/ghpvc/?username=JyotiKumari2&color=red)
-![GitHub followers](https://img.shields.io/github/followers/JyotiKumari2?style=social)
-![GitHub User's stars](https://img.shields.io/github/stars/JyotiKumari2?style=social) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=jyotikumari2&label=Profile%20views&color=0e75b6&style=flat" alt="jyotikumari2" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jyotikumari2" alt="jyotikumari2" /></a> </p>
 
-<h4>Code with purpose, impact the world!☕ </h4>
- 
-<br/>
- 
- 
-## 🧰 Toolbox
-  ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  
+- 🌱 I’m currently learning **Springboot**
 
-## &#x1f4c8; My GitHub Stats
-<a href="https://github.com/JyotiKumari2">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JyotiKumari2&theme=dark&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JyotiKumari2&theme=dark&layout=compact" />
-</a>
+- 💬 Ask me about **the exciting challenges I'm tackling with Java, Spring Boot, ReactJS and system design!**
 
+- 📫 How to reach me **jyotikm1801@gmail.com**
 
-### 🏆 Github Profile Trophy
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=JyotiKumari2&theme=monokai&row=1&no-frame=true&no-bg=true/">
-  
-### 🔥 GitHub Streak
- 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=JyotiKumari2&theme=highcontrast)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jyoti-kumari-34a4a01ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jyoti-kumari-34a4a01ab" height="30" width="40" /></a>
+<a href="https://instagram.com/jyotikm1801" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jyotikm1801" height="30" width="40" /></a>
+</p>
 
-### 📈 Github Activity Graph
-[![Jyoti's github activity graph](https://activity-graph.herokuapp.com/graph?username=JyotiKumari2&theme=react-dark)](https://github.com/jyotikumari2/github-readme-activity-graph)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-  
-<!-- ### 👩‍💻 Online Coding Profile
-   <a href="https://codeforces.com/profile/jyotikm1801"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-black?style=flat-square&logo=codeforces"></a>
-   <a href="https://www.codechef.com/users/jyotikm1801"><img alt="CodeChef" src="https://img.shields.io/badge/CodeChef-black?style=flat-square&logo=codechef"></a>
-   <a href="https://leetcode.com/jyotikm1801/"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-black?style=flat-square&logo=leetcode"></a>
-   <a href="https://www.hackerearth.com/@jyoti1047"><img alt="HackerEarth" src="https://img.shields.io/badge/HackerEarth-black?style=flat-square&logo=hackerearth"></a>
-   <a href="https://www.hackerrank.com/outofamo"><img alt="HackerRank" src="https://img.shields.io/badge/HackerRank-black?style=flat-square&logo=hackerrank"></a>
-   <a href="https://auth.geeksforgeeks.org/user/jyotikm1801/profile"><img alt="Geeksforgeeks" src="https://img.shields.io/badge/GeeksforGeeks-black?style=flat-square&logo=geeksforgeeks"></a> -->
-   
-### 🤝 Connect with me
-<a href="https://www.linkedin.com/in/jyoti-kumari-34a4a01ab/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-black?style=flat-square&logo=linkedin"></a>
-<a href="mailto:jyotikm1881@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-black?style=flat-square&logo=gmail"></a> 
-<a href="https://www.sololearn.com/profile/14680412"><img alt="Sololearn" src="https://img.shields.io/badge/SoloLearn-black?style=flat-square&logo=sololearn"></a>
-<a href="https://www.facebook.com/jyotikm1801/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-black?style=flat-square&logo=facebook"></a>
-<a href="https://www.instagram.com/jyotikm1801/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-black?style=flat-square&logo=instagram"></a>
-<a href="https://codepen.io/jyotikm1801"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-black?style=flat-square&logo=codepen"></a>
-<a href="https://dribbble.com/jyotikm1801"><img alt="Dribbble" src="https://img.shields.io/badge/Dribbble-black?style=flat-square&logo=dribbble"></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jyotikumari2&show_icons=true&locale=en&layout=compact" alt="jyotikumari2" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jyotikumari2&show_icons=true&locale=en" alt="jyotikumari2" /></p>
 
-  
---------
-
-![GitHub metrics](https://metrics.lecoq.io/JyotiKumari2)
-
-<hr>
-<div align="center"><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you more!</b> :)</em></div>
-
---------
-   
-  <div align="center"><strong>Show some ❤️️ by starring⭐ some of the repositories!</strong></div>
- 
-
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jyotikumari2&" alt="jyotikumari2" /></p>
