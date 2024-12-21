@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 💬 Ask me about **the exciting challenges I'm tackling with Java, Spring Boot, ReactJS and system design!**
+- 💬 Ask me about **the exciting challenges I'm tackling with Java, Spring Boot, ReactJS and System Design!**
 
 - 📫 How to reach me **jyotikm1801@gmail.com**
 
